@@ -38,11 +38,3 @@ terraform init
 terraform apply
 
 ```
-
-4. Run the following command: 
-
-```
-# Runing this command again will upload the updated terraform.tfstate file to the central repository
-terraform init
-```
-
